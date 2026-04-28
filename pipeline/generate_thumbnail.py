@@ -70,6 +70,9 @@ chart_a = CHARTS_DIR / f"{PAPER_ID}_chart_A.png"
 chart_b = CHARTS_DIR / f"{PAPER_ID}_chart_B.png"
 chart_path = chart_a if chart_a.exists() else (chart_b if chart_b.exists() else None)
 
+# マスコット画像
+mascot_path = ROOT / "pipeline" / "mascot" / "mascot.png"
+
 # アクセントカラー → RGB
 def hex2rgb(h):
     h = h.lstrip("#")
@@ -127,6 +130,18 @@ def make_long():
             g = int(BG_DARK[1] * (1 - t) + BG_MID[1] * t)
             b = int(BG_DARK[2] * (1 - t) + BG_MID[2] * t)
             draw.line([(cx + i, 0), (cx + i, H)], fill=(r, g, b))
+
+    draw = ImageDraw.Draw(img)
+
+    # マスコット（右下コーナー）
+    if mascot_path.exists():
+        mascot = Image.open(mascot_path).convert("RGBA")
+        mh = int(H * 0.62)
+        mw = int(mh * mascot.width / mascot.height)
+        mascot = mascot.resize((mw, mh), Image.LANCZOS)
+        mx = W - mw - 18
+        my = H - mh - 68
+        img.paste(mascot, (mx, my), mascot)
 
     draw = ImageDraw.Draw(img)
 
