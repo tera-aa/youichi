@@ -41,7 +41,15 @@ npx remotion render src/index.ts "${PAPER}Short" \
   --codec=h264 --crf=18 --concurrency=4 --log=warn
 
 echo ""
+echo "--- ⑥ 品質管理（QC） ---"
+bash pipeline/qc.sh "$PAPER"
+
+echo ""
 echo "========================================"
-echo "✅ 制作完了: $PAPER"
-echo "次のステップ: pipeline/status.md を更新 → 配信部へ連絡"
+echo "✅ 制作・QC完了: $PAPER"
+echo ""
+echo "次のステップ:"
+echo "  1. open pipeline/qc_frames/${PAPER}/  でフレームを目視確認"
+echo "  2. pipeline/qc_report.md のチェックリストを記入"
+echo "  3. 合格したら pipeline/status.md の QC 列を ✅ に更新"
 echo "========================================"
