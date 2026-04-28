@@ -148,7 +148,7 @@ def make_long():
         pass
 
     # メインテキスト（マスコット右側・中央上部）
-    text_x    = 215   # マスコット幅ぶん右にオフセット
+    text_x    = 185   # マスコット幅ぶん右にオフセット
     text_max_w = int(W * 0.50) - 40
     try:
         font_main = ImageFont.truetype(FONT_BOLD, 84)
@@ -189,7 +189,7 @@ def make_long():
     # マスコット（左下・チャートと重ならない位置）
     if mascot_path.exists():
         mascot_img = Image.open(mascot_path).convert("RGBA")
-        mh = int((H - bar_h) * 0.58)
+        mh = int((H - bar_h) * 0.44)
         mw = int(mh * mascot_img.width / mascot_img.height)
         mascot_img = mascot_img.resize((mw, mh), Image.LANCZOS)
         mx = 12
