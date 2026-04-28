@@ -133,16 +133,6 @@ def make_long():
 
     draw = ImageDraw.Draw(img)
 
-    # マスコット（右下コーナー）
-    if mascot_path.exists():
-        mascot = Image.open(mascot_path).convert("RGBA")
-        mh = int(H * 0.62)
-        mw = int(mh * mascot.width / mascot.height)
-        mascot = mascot.resize((mw, mh), Image.LANCZOS)
-        mx = W - mw - 18
-        my = H - mh - 68
-        img.paste(mascot, (mx, my), mascot)
-
     draw = ImageDraw.Draw(img)
 
     # アクセントライン（左端）
@@ -157,11 +147,11 @@ def make_long():
     except Exception:
         pass
 
-    # メインテキスト（大きく）
-    text_max_w = int(W * 0.50)
+    # メインテキスト（マスコット右側・中央上部）
+    text_x    = 215   # マスコット幅ぶん右にオフセット
+    text_max_w = int(W * 0.50) - 40
     try:
-        font_main = ImageFont.truetype(FONT_BOLD, 88)
-        # 折り返し処理
+        font_main = ImageFont.truetype(FONT_BOLD, 84)
         chars = list(main_text)
         lines, line = [], ""
         for ch in chars:
@@ -175,27 +165,36 @@ def make_long():
         if line:
             lines.append(line)
 
-        line_h = 96
+        line_h = 92
         total_h = len(lines) * line_h
-        y_start = (H - bar_h - total_h) // 2 - 20
+        y_start = (H - bar_h - total_h) // 2 - 30
 
         for i, ln in enumerate(lines):
-            # テキストシャドウ
-            draw.text((54, y_start + i * line_h + 3), ln, font=font_main, fill=(0, 0, 0, 180))
-            draw.text((52, y_start + i * line_h), ln, font=font_main, fill=(255, 255, 255))
+            draw.text((text_x + 3, y_start + i * line_h + 3), ln, font=font_main, fill=(0, 0, 0, 180))
+            draw.text((text_x,     y_start + i * line_h),     ln, font=font_main, fill=(255, 255, 255))
     except Exception as e:
         print(f"  ⚠️  メインテキスト描画エラー: {e}")
 
     # サブテキスト
     try:
-        font_sub = ImageFont.truetype(FONT_MEDIUM, 38)
+        font_sub = ImageFont.truetype(FONT_MEDIUM, 36)
         sub_lines = textwrap.wrap(sub_text, width=20)
-        sy = y_start + len(lines) * line_h + 16
+        sy = y_start + len(lines) * line_h + 14
         for j, sl in enumerate(sub_lines[:2]):
-            draw.text((56, sy + j * 48 + 2), sl, font=font_sub, fill=(0, 0, 0, 160))
-            draw.text((54, sy + j * 48), sl, font=font_sub, fill=(*ACCENT, 255))
+            draw.text((text_x + 2, sy + j * 46 + 2), sl, font=font_sub, fill=(0, 0, 0, 160))
+            draw.text((text_x,     sy + j * 46),     sl, font=font_sub, fill=(*ACCENT, 255))
     except Exception:
         pass
+
+    # マスコット（左下・チャートと重ならない位置）
+    if mascot_path.exists():
+        mascot_img = Image.open(mascot_path).convert("RGBA")
+        mh = int((H - bar_h) * 0.58)
+        mw = int(mh * mascot_img.width / mascot_img.height)
+        mascot_img = mascot_img.resize((mw, mh), Image.LANCZOS)
+        mx = 12
+        my = H - bar_h - mh + 8
+        img.paste(mascot_img, (mx, my), mascot_img)
 
     out = OUT_DIR / f"{PAPER_ID}_thumbnail.jpg"
     img.save(out, "JPEG", quality=95)
