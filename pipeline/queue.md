@@ -49,3 +49,35 @@
   掲載誌: Frontiers in Nutrition | 2025年
   テーマ: 食事, 代謝
 
+---
+
+### 2026-06-01 追加分
+
+- [ ] Paper候補 | [座位行動と健康への影響：日本における前向き・縦断研究のシステマティック・スコーピングレビュー] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12698325/ | status: pending
+  発見: 日本人成人の座位行動が全死因死亡・がん・代謝疾患リスクと有意に関連し、座位時間を減らすことが健康促進に重要と判定——日本の座位行動ガイドライン策定の科学的根拠
+  対象: ヒト（前向き・縦断研究スコーピングレビュー、27件、延べ10万人超・追跡10年以上の大規模コホート含む）
+  OA種別: PMC / CC BY（Journal of Epidemiology）
+  掲載誌: Journal of Epidemiology | 2025年
+  テーマ: 運動（座位行動）
+
+- [ ] Paper候補 | [運動と腸内細菌：メカニズムから臨床応用まで] | https://doi.org/10.3390/nu18101565 | status: pending
+  発見: 週150〜270分・8週間以上の有酸素運動がAkkermansia・Faecalibacteriumなど有益菌を増加させ腸内多様性と代謝機能を改善。運動強度・種類別の最適プロトコルも提示
+  対象: レビュー（ヒト47件・動物42件の計89研究を統合分析）
+  OA種別: MDPI Nutrients CC BY
+  掲載誌: Nutrients (MDPI) | 2026年5月
+  テーマ: 運動, 腸内細菌
+
+- [ ] Paper候補 | [アメリカ成人における睡眠時間と代謝健康指標の関連：NHANES 2021-2023データの多変量分析] | https://pmc.ncbi.nlm.nih.gov/articles/PMC11776014/ | status: pending
+  発見: 睡眠7〜9時間が代謝健康に最適。短睡眠（6時間未満）はBMI・空腹時血糖・中性脂肪・血圧など複数の代謝指標と独立して有意に関連
+  対象: ヒト（横断研究、NHANES 2021-2023データ）
+  OA種別: PMC / CC BY-NC（SAGE Journals）
+  掲載誌: Journal of Primary Care & Community Health | 2025年1月
+  テーマ: 代謝, 睡眠
+
+- [ ] Paper候補 | [発酵野菜が腸内細菌叢と免疫プロファイルを改善する：農村女性コミュニティ介入試験] | https://doi.org/10.1038/s41598-025-17721-8 | status: pending
+  発見: ラディッシュ・ニンジンなど6種の発酵野菜を12週間摂取した女性で腸内細菌多様性が向上し、白血球・好中球・血小板などの炎症マーカーが有意に低下
+  対象: ヒト（コミュニティ介入試験、女性230名）
+  OA種別: Scientific Reports CC BY（Nature Portfolio）
+  掲載誌: Scientific Reports | 2025年
+  テーマ: 食事, 腸内細菌, 免疫
+
