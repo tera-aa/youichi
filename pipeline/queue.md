@@ -81,3 +81,35 @@
   掲載誌: Scientific Reports | 2025年
   テーマ: 食事, 腸内細菌, 免疫
 
+---
+
+### 2026-06-08 追加分
+
+- [ ] Paper候補 | [身体活動はエピジェネティック老化の低下と関連する：Health and Retirement Studyの知見] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12163535/ | status: pending
+  発見: 週150分以上の中〜高強度身体活動を継続した高齢者で、GrimAge・PhenoAge・DunedinPACEなどエピジェネティック時計が示す生物学的老化速度が有意に低下（12年追跡コホート）
+  対象: ヒト（前向きコホート、Health and Retirement Study、12年追跡）
+  OA種別: PMC / CC BY（Wiley Open Access）
+  掲載誌: Journal of Cachexia, Sarcopenia and Muscle | 2025年6月
+  テーマ: 運動, 老化
+
+- [ ] Paper候補 | [認知症なし・軽度認知障害成人におけるオメガ3多価不飽和脂肪酸と認知機能低下：システマティックレビューのオーバービュー] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12472900/ | status: pending
+  発見: 9つのシステマティックレビュー（26,881名）を統合し、1日2,500mg以上のオメガ3補充が非認知症・MCI高齢者の認知機能（MMSE）を有意に改善することを確認（8レビュー中7件で有効性一致）
+  対象: レビュー（ヒト対象RCTのオーバービュー）
+  OA種別: MDPI Nutrients / CC BY（PMC12472900）
+  掲載誌: Nutrients (MDPI) | 2025年9月
+  テーマ: 食事, 老化, 認知機能
+
+- [ ] Paper候補 | [概日システムと老化：両者が交差するとき] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12575272/ | status: pending
+  発見: 概日時計タンパク（BMAL1・CLOCK）の機能低下が代謝疾患・慢性炎症・神経変性を加速し、時間制限食や光環境の調整による概日リズム回復が老化抑制介入として有望であることを包括的に解説
+  対象: レビュー（ヒト・動物研究）
+  OA種別: Frontiers CC BY（Frontiers in Aging）
+  掲載誌: Frontiers in Aging | 2025年
+  テーマ: 老化, 代謝
+
+- [ ] Paper候補 | [ポリフェノールと腸内細菌叢の相互作用と人体への影響] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12147749/ | status: pending
+  発見: ポリフェノールの生体内利用率は腸内細菌叢の多様性に依存する双方向相互作用が存在し、腸内細菌がポリフェノールをエクオールや短鎖脂肪酸に変換することで抗炎症・抗老化効果が発揮される仕組みを解明
+  対象: レビュー（ヒト・動物研究）
+  OA種別: PMC（Current Opinion in Clinical Nutrition and Metabolic Care）
+  掲載誌: Current Opinion in Clinical Nutrition and Metabolic Care | 2025年
+  テーマ: 食事, 腸内細菌
+
