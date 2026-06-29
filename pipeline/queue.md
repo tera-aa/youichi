@@ -184,3 +184,35 @@
   掲載誌: Nutrients (MDPI) | 2025年5月
   テーマ: 食事, 代謝
 
+---
+
+### 2026-06-29 追加分
+
+- [ ] Paper候補 | [健康な成人の筋力・筋肥大・身体機能のためのレジスタンストレーニング処方：ACSMポジションスタンド2026（レビューの概観）] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ | status: pending
+  発見: 137件のSRと30,000名超のデータを統合した17年ぶりの改訂指針。週2回・全主要筋群のトレーニングが筋肥大と機能向上の基本要件と確立。強度指標を1RMパーセントからRIR（余力反復回数）へ移行し、「いかなる量・形式でも健康に有益」という原則を提示
+  対象: エビデンス統合（137件のSR、30,000名超のデータ）
+  OA種別: PMC / CC BY-NC-ND（Medicine & Science in Sports & Exercise）
+  掲載誌: Medicine & Science in Sports & Exercise | 2026年4月
+  テーマ: 運動
+
+- [ ] Paper候補 | [過体重・肥満女性における時間制限食が体組成・代謝パラメータに与える影響：系統的レビューとメタ解析] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12479299/ | status: pending
+  発見: 過体重・肥満女性を対象とした13件のRCT（612名）を統合。時間制限食（TRE）が体重を平均1.9kg有意に低下させ空腹時インスリンも改善。ただし体脂肪量・BMI・血圧・血糖・血中脂質への有意な効果は認められず、体重とインスリン感受性に特化した効果であることを示唆
+  対象: システマティックレビュー・メタ解析（RCT 13件、女性 612名）
+  OA種別: Frontiers CC BY / PMC（PMC12479299）
+  掲載誌: Frontiers in Nutrition | 2025年
+  テーマ: 食事, 代謝
+
+- [ ] Paper候補 | [発酵食品と健康的な長寿：潜在的な抗老化メカニズムのレビュー] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12809222/ | status: pending
+  発見: 発酵食品がAMPK・SIRT/NAD⁺・mTOR栄養センサー経路を活性化して細胞恒常性・長寿を促進することを解明。炎症性老化（inflammaging）と腸内細菌叢の乱れ（dysbiosis）の両方を同時に制御する二重メカニズムを持ち、ヨーグルト・キムチ・納豆などの発酵食品が抗老化食品として有望
+  対象: レビュー（ヒト・動物研究）
+  OA種別: PMC / CC BY-NC（Current Research in Food Science, Elsevier）
+  掲載誌: Current Research in Food Science | 2026年
+  テーマ: 食事, 腸内細菌, 老化
+
+- [ ] Paper候補 | [うつ病と不安障害における腸内細菌叢の変動：系統的レビュー] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12044767/ | status: pending
+  発見: うつ・不安患者では腸内細菌多様性が低下し有益菌（Bifidobacterium・Lactobacillus）が減少する一方、炎症関連菌（Prevotella・Klebsiella）が増加することを系統的に確認。腸内細菌叢の乱れが気分障害の発症と双方向的に関連しており、食事・プロバイオティクスによる腸内環境改善が精神健康介入として有望
+  対象: 系統的レビュー（ヒト研究）
+  OA種別: PMC / CC BY
+  掲載誌: 掲載誌: 2025年（PMC12044767）
+  テーマ: 腸内細菌
+
