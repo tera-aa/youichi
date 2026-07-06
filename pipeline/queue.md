@@ -216,3 +216,42 @@
   掲載誌: 掲載誌: 2025年（PMC12044767）
   テーマ: 腸内細菌
 
+---
+
+### 2026-07-06 追加分
+
+- [ ] Paper候補 | [中高齢女性に対するHIIT（高強度インターバルトレーニング）の心肺機能・身体機能への効果：系統的レビューとメタ解析] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12995631/ | status: pending
+  発見: 中高齢女性を対象とした19件のRCTのメタ解析で、HIITがVO₂maxを有意に改善（確実性の高いエビデンス）し、12週間の短期介入でも心肺機能が向上。HIITと筋力トレーニングの組み合わせが筋力向上に最も効果的と判明
+  対象: ヒト（系統的レビュー・メタ解析、RCT 19件、中高齢女性）
+  OA種別: Frontiers CC BY（PMC12995631）
+  掲載誌: Frontiers in Physiology | 2026年3月
+  テーマ: 運動
+
+- [ ] Paper候補 | [食物繊維サプリメントが健康成人の腸内細菌叢と腸機能に与える効果：ランダム化比較試験] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12471990/ | status: pending
+  発見: 4週間の高食物繊維食（8.2g/日）摂取により腸内のBifidobacterium・Anaerostipes・Fusicatenibacterが顕著に増加し、腸関連QOLが有意に改善。有益菌の協調ネットワーク形成も確認（二重盲検RCT）
+  対象: ヒト（二重盲検RCT、健康成人105名）
+  OA種別: MDPI Microorganisms CC BY（PMC12471990）
+  掲載誌: Microorganisms (MDPI) | 2025年9月
+  テーマ: 食事, 腸内細菌
+
+- [ ] Paper候補 | [睡眠特性・健康因子・腸内細菌叢の相互関係：Lifelines Dutch Microbiome Projectの知見] | https://www.nature.com/articles/s41467-026-68791-9 | status: pending
+  発見: 6,941名の大規模コホートで、睡眠の質が低い・夜型・社会的時差ぼけが腸内細菌多様性の低下と関連し、137種の細菌が睡眠特性と紐づくことを独立コホートで実証。コーヒー摂取の社会的時差ぼけへの影響を特定細菌が媒介することも判明
+  対象: ヒト（横断研究、Lifelines Dutch Microbiome Project、6,941名）
+  OA種別: Nature Communications CC BY（Nature Portfolio）
+  掲載誌: Nature Communications | 2026年
+  テーマ: 腸内細菌, 睡眠
+
+- [ ] Paper候補 | [砂糖なし・砂糖入り・人工甘味料入りのお茶消費と全死因・原因別死亡リスク：UKバイオバンク195,361名の前向きコホート研究] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12350117/ | status: pending
+  発見: 無糖のお茶を1日3.5〜4.5杯飲む群で全死因死亡リスク20%低下・心血管死亡リスク27%低下（13.6年追跡）。加糖・人工甘味料入りでは保護効果なし——「お茶の健康効果は砂糖なし限定」を大規模データで実証
+  対象: ヒト（前向きコホート、UKバイオバンク参加者195,361名、追跡13.6年）
+  OA種別: Frontiers CC BY（PMC12350117）
+  掲載誌: Frontiers in Nutrition | 2025年
+  テーマ: 食事, 代謝
+
+- [ ] Paper候補 | [心血管疾患の一次・二次予防に対する地中海食の有効性：アンブレラレビュー] | https://pmc.ncbi.nlm.nih.gov/articles/PMC11795232/ | status: pending
+  発見: 238件のRCTを含む18のメタ解析を統合し、地中海食が致死的心血管疾患リスクを10〜67%・非致死的CVDリスクを21〜70%低下させることを高品質エビデンスで立証。心筋梗塞・脳卒中・心房細動・末梢動脈疾患すべてに保護効果あり
+  対象: アンブレラレビュー（RCTのメタ解析18件、238 RCTs）
+  OA種別: PMC CC BY（Nutrition & Dietetics / Wiley）
+  掲載誌: Nutrition & Dietetics | 2025年
+  テーマ: 食事, 代謝
+
