@@ -255,3 +255,42 @@
   掲載誌: Nutrition & Dietetics | 2025年
   テーマ: 食事, 代謝
 
+---
+
+### 2026-07-13 追加分
+
+- [ ] Paper候補 | [コーヒー常飲が腸内細菌叢を変容させ生体機能・認知機能を修飾する] | https://www.nature.com/articles/s41467-026-71264-8 | status: pending
+  発見: カフェイン入り・カフェイン抜きを問わずコーヒー常飲者では腸内細菌叢が特徴的に変化（Cryptobacterium・Eggerthella増加、インドール-3-プロピオン酸・GABAなどのメタボライト減少）し、ストレス低下・心理的ウェルビーイング向上と独立して関連。コーヒーの脳への影響は腸内細菌叢を介したマイクロビオータ-腸-脳軸経由が主経路と特定
+  対象: ヒト（観察コホート + クロスオーバー介入試験）
+  OA種別: Nature Communications CC BY 4.0（Nature Portfolio）
+  掲載誌: Nature Communications | 2026年4月
+  テーマ: 食事, 腸内細菌
+
+- [ ] Paper候補 | [孤独感・社会的孤立・独居と高齢者の死亡リスク：包括的システマティックレビューとメタ解析] | https://pmc.ncbi.nlm.nih.gov/articles/PMC11750934/ | status: pending
+  発見: 86件のコホート研究を統合した包括的メタ解析で、孤独感が全死因死亡リスクを14%増加、社会的孤立が35%増加、独居が21%増加させることを実証。社会的孤立の影響は喫煙・肥満と同等以上の健康リスクであることが確認された
+  対象: システマティックレビュー・メタ解析（ヒト、86研究）
+  OA種別: PMC / CC BY（Aging Clinical and Experimental Research / Springer）
+  掲載誌: Aging Clinical and Experimental Research | 2025年
+  テーマ: 老化
+
+- [ ] Paper候補 | [ビタミンD3補充が高齢者の心代謝アウトカムに与える影響：D-Healthランダム化比較試験の結果] | https://doi.org/10.3390/nu18020357 | status: pending
+  発見: 60〜84歳の高齢者を対象とした大規模RCTで、月次ビタミンD3（60,000 IU）補充が高血圧・脂質異常症・2型糖尿病発症に与える影響を医療データベースリンクで追跡。薬剤処方開始を代理指標とした厳格な評価系により実臨床でのビタミンD効果を検証
+  対象: ヒト（二重盲検RCT、D-Health Trial、60〜84歳オーストラリア人成人）
+  OA種別: PMC / CC BY（Nutrients MDPI / PMC12845487）
+  掲載誌: Nutrients (MDPI) | 2026年1月
+  テーマ: 食事, 代謝
+
+- [ ] Paper候補 | [高齢者のサルコペニアに対する運動・栄養戦略：国際基準(EWGSOP/AWGS)に基づくネットワークメタ解析] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12571659/ | status: pending
+  発見: 35件のRCT（2,331名）のネットワークメタ解析で、運動と栄養補充の組み合わせが握力・歩行速度・骨格筋量指数の改善に最も効果的と確認。単独の運動介入も栄養単独介入も対照群より有意に優れるが、組み合わせが最上位にランク
+  対象: ネットワークメタ解析（RCT 35件、2,331名）
+  OA種別: Frontiers CC BY（PMC12571659）
+  掲載誌: Frontiers in Nutrition | 2025年10月
+  テーマ: 運動, 食事
+
+- [ ] Paper候補 | [代謝機能障害関連脂肪肝（MASLD）肥満患者への4ヶ月低糖質食が内臓脂肪に与える影響] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12429932/ | status: pending
+  発見: MASLD肥満患者474名への4ヶ月低糖質食（"Strong Diet"）で中等度脂肪肝群は内臓脂肪面積が有意に減少したが、重度脂肪肝群では食事介入の効果が限定的。肝臓の線維化・炎症が進むと食事療法のみでは内臓脂肪低減に限界があることを大規模臨床データで示唆
+  対象: ヒト（後ろ向きコホート、臨床栄養データベース、MASLD肥満患者474名）
+  OA種別: PMC / CC BY（Nutrients MDPI / DOI: 10.3390/nu17172905）
+  掲載誌: Nutrients (MDPI) | 2025年9月
+  テーマ: 食事, 代謝
+
