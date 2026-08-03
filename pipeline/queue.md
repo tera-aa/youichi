@@ -372,3 +372,42 @@
   掲載誌: Frontiers in Nutrition | 2026年
   テーマ: 食事, 代謝
 
+---
+
+### 2026-08-03 追加分
+
+- [ ] Paper候補 | [朝運動vs夜運動12週間RCT：睡眠・心代謝健康への差異的効果] | https://www.nature.com/articles/s41598-025-02659-8 | status: pending
+  発見: 座位男性58名を朝運動（6〜8時）・夜運動（18〜20時）・対照群に無作為化し12週間比較。朝運動は体脂肪・コレステロール・中性脂肪の低下と睡眠覚醒リズム改善に優れ、夜運動は頸動脈の拡張反応・血流量向上・収縮期血圧低下で優位と判明——同じ有酸素運動でも時間帯で異なる生理効果が生じることを初めてRCTで実証
+  対象: ヒト（RCT、座位男性 58名、中等度有酸素運動≥150分/週、12週間）
+  OA種別: Scientific Reports CC BY（Nature Portfolio）
+  掲載誌: Scientific Reports | 2025年
+  テーマ: 運動, 代謝
+
+- [ ] Paper候補 | [断食模倣食（FMD）5日間サイクルがオートファジーと代謝健康マーカーに与える影響：初の人体試験] | https://doi.org/10.1007/s11357-025-02035-4 | status: pending
+  発見: 健康成人30名を5日間FMD（ProLon・FMD2）とコントロールにランダム化。FMD群で末梢血単核球のLC3B-II/LC3B-I比（オートファジーフラックス）が有意に増加し、血糖・HOMA-IR・β-ヒドロキシ酪酸（ケトン体）・体重も有意に改善。食事介入によるオートファジー活性をヒトで直接計測した世界初のRCT
+  対象: ヒト（パイロットRCT、健康成人 30名、8日間介入）
+  OA種別: GeroScience / Springer Nature（CC BY OA）
+  掲載誌: GeroScience | 2025年12月
+  テーマ: 食事, 老化
+
+- [ ] Paper候補 | [睡眠時間と長期認知機能低下軌跡のU字型関連：国家コホート研究] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12615808/ | status: pending
+  発見: 中国高齢者8,668名（平均年齢56.3歳）を2011〜2020年まで追跡。短睡眠（6時間未満）は認知機能低下リスクが17%増、長睡眠（8時間超）は57%増というU字型関連を確認。「寝すぎ」のリスクが「寝不足」を大幅に上回り、最適睡眠時間は6〜8時間と示唆
+  対象: ヒト（前向きコホート、CHARLS参加者8,668名、2011-2020年）
+  OA種別: PMC / CC BY（Scientific Reports, Nature Portfolio）
+  掲載誌: Scientific Reports | 2025年
+  テーマ: 老化
+
+- [ ] Paper候補 | [緑茶カテキンEGCGと腸内細菌叢・健康軸：構造特性・代謝経路・全身効果の包括的解説] | https://advances.nutrition.org/article/S2161-8313(25)00183-8/fulltext | status: pending
+  発見: EGCGは腸管吸収率が低く大腸で腸内細菌と広範に相互作用。Adlercreutzia・Eggerthella・LachnospiraceaeなどがEGCGをC環開裂・ガロイル加水分解によりより強力な代謝産物に変換。Akkermansia・Bifidobacteriumを増加させ短鎖脂肪酸産生を促進し、抗炎症・代謝改善・抗肥満効果が発揮される腸内細菌媒介メカニズムを包括的に解明
+  対象: レビュー（ヒト・動物研究）
+  OA種別: Advances in Nutrition / Oxford University Press（OA）
+  掲載誌: Advances in Nutrition | 2025年10月
+  テーマ: 食事, 腸内細菌
+
+- [ ] Paper候補 | [握力・代謝症候群・2型糖尿病リスクの関連：6.5年前向きコホート研究] | https://pmc.ncbi.nlm.nih.gov/articles/PMC12065693/ | status: pending
+  発見: 51〜81歳成人1,935名を6.5年追跡。体重比「相対握力」が高い群は糖尿病発症リスクが51%低下（HR=0.49）し、代謝症候群を統計調整後も37%低下（HR=0.63）。絶対握力より相対握力が糖尿病予測指標として優れており、筋力維持が代謝症候群経路を通じた糖尿病予防に寄与することを前向きデータで確認
+  対象: ヒト（前向きコホート、51〜81歳 1,935名、追跡6.5年）
+  OA種別: PMC / CC BY（Journal of Diabetes & Metabolic Disorders, Springer Nature）
+  掲載誌: Journal of Diabetes & Metabolic Disorders | 2025年5月
+  テーマ: 運動, 代謝
+
